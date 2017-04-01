@@ -1,10 +1,7 @@
 {
   "name": "themelogy/carwash-theme",
   "type": "asgard-theme",
-  "description": "",
-  "keywords": [
-    "asgard-cms"
-  ],
+  "description": ""
   "license": "MIT",
   "require": {
     "php": ">=5.5",
