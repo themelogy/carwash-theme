@@ -1,0 +1,26 @@
+{
+  "name": "CarWash",
+  "authors": [
+    "sagsoz06 <designer@visualturk.net>"
+  ],
+  "description": "CarWash Theme",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "/resources/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7",
+    "semantic": "semantic-ui#^2.2.6",
+    "foundation": "5.5.3",
+    "jquery": "^3.1.1",
+    "slider-revolution": "^4.3.7"
+  }
+}
